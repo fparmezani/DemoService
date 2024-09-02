@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  tododb:
+    image: mongo
+    
+  demoservice.todoapi:
+    image: ${DOCKER_REGISTRY-}demoservicetodoapi
+    build:
+      context: .
+      dockerfile: DemoService.TodoAPI/Dockerfile
+volumes:
+  mongo_data:

@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projetos\\DemoService\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{753057E1-8499-4868-B13C-FDEDA05012BF}|DemoService.TodoAPI\\DemoService.TodoAPI.csproj|c:\\projetos\\demoservice\\demoservice.todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{753057E1-8499-4868-B13C-FDEDA05012BF}|DemoService.TodoAPI\\DemoService.TodoAPI.csproj|solutionrelative:demoservice.todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6431C7E4-F89E-425F-BE0F-8CED92300350}|docker-compose.dcproj|c:\\projetos\\demoservice\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6431C7E4-F89E-425F-BE0F-8CED92300350}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753057E1-8499-4868-B13C-FDEDA05012BF}|DemoService.TodoAPI\\DemoService.TodoAPI.csproj|c:\\projetos\\demoservice\\demoservice.todoapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{753057E1-8499-4868-B13C-FDEDA05012BF}|DemoService.TodoAPI\\DemoService.TodoAPI.csproj|solutionrelative:demoservice.todoapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753057E1-8499-4868-B13C-FDEDA05012BF}|DemoService.TodoAPI\\DemoService.TodoAPI.csproj|c:\\projetos\\demoservice\\demoservice.todoapi\\data\\todocontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753057E1-8499-4868-B13C-FDEDA05012BF}|DemoService.TodoAPI\\DemoService.TodoAPI.csproj|solutionrelative:demoservice.todoapi\\data\\todocontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753057E1-8499-4868-B13C-FDEDA05012BF}|DemoService.TodoAPI\\DemoService.TodoAPI.csproj|c:\\projetos\\demoservice\\demoservice.todoapi\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753057E1-8499-4868-B13C-FDEDA05012BF}|DemoService.TodoAPI\\DemoService.TodoAPI.csproj|solutionrelative:demoservice.todoapi\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753057E1-8499-4868-B13C-FDEDA05012BF}|DemoService.TodoAPI\\DemoService.TodoAPI.csproj|c:\\projetos\\demoservice\\demoservice.todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753057E1-8499-4868-B13C-FDEDA05012BF}|DemoService.TodoAPI\\DemoService.TodoAPI.csproj|solutionrelative:demoservice.todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753057E1-8499-4868-B13C-FDEDA05012BF}|DemoService.TodoAPI\\DemoService.TodoAPI.csproj|c:\\projetos\\demoservice\\demoservice.todoapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753057E1-8499-4868-B13C-FDEDA05012BF}|DemoService.TodoAPI\\DemoService.TodoAPI.csproj|solutionrelative:demoservice.todoapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753057E1-8499-4868-B13C-FDEDA05012BF}|DemoService.TodoAPI\\DemoService.TodoAPI.csproj|c:\\projetos\\demoservice\\demoservice.todoapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753057E1-8499-4868-B13C-FDEDA05012BF}|DemoService.TodoAPI\\DemoService.TodoAPI.csproj|solutionrelative:demoservice.todoapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +42,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Projetos\\DemoService\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Projetos\\DemoService\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-08-31T19:33:04.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Projetos\\DemoService\\DemoService.TodoAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "DemoService.TodoAPI\\Dockerfile",
+              "ToolTip": "C:\\Projetos\\DemoService\\DemoService.TodoAPI\\Dockerfile",
+              "RelativeToolTip": "DemoService.TodoAPI\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-31T19:32:17.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoContextSeed.cs",
+              "DocumentMoniker": "C:\\Projetos\\DemoService\\DemoService.TodoAPI\\Data\\TodoContextSeed.cs",
+              "RelativeDocumentMoniker": "DemoService.TodoAPI\\Data\\TodoContextSeed.cs",
+              "ToolTip": "C:\\Projetos\\DemoService\\DemoService.TodoAPI\\Data\\TodoContextSeed.cs",
+              "RelativeToolTip": "DemoService.TodoAPI\\Data\\TodoContextSeed.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T19:25:22.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\DemoService\\DemoService.TodoAPI\\Repositories\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "DemoService.TodoAPI\\Repositories\\TodoRepository.cs",
+              "ToolTip": "C:\\Projetos\\DemoService\\DemoService.TodoAPI\\Repositories\\TodoRepository.cs",
+              "RelativeToolTip": "DemoService.TodoAPI\\Repositories\\TodoRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T19:25:11.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\DemoService\\DemoService.TodoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DemoService.TodoAPI\\Program.cs",
+              "ToolTip": "C:\\Projetos\\DemoService\\DemoService.TodoAPI\\Program.cs",
+              "RelativeToolTip": "DemoService.TodoAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T19:25:04.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Projetos\\DemoService\\DemoService.TodoAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "DemoService.TodoAPI\\Startup.cs",
+              "ToolTip": "C:\\Projetos\\DemoService\\DemoService.TodoAPI\\Startup.cs",
+              "RelativeToolTip": "DemoService.TodoAPI\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T19:24:56.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Projetos\\DemoService\\DemoService.TodoAPI\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "DemoService.TodoAPI\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Projetos\\DemoService\\DemoService.TodoAPI\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "DemoService.TodoAPI\\Controllers\\TodoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T19:24:47.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projetos\\DemoService\\DemoService.TodoAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoService.TodoAPI\\appsettings.json",
+              "ToolTip": "C:\\Projetos\\DemoService\\DemoService.TodoAPI\\appsettings.json",
+              "RelativeToolTip": "DemoService.TodoAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-31T19:23:22.824Z",
+              "EditorCaption": ""
             }
           ]
         }
